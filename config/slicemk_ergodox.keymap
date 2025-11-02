@@ -19,7 +19,7 @@
 				&kp LCTRL      &kp A           &kp S        &kp D          &kp F          &kp G                                              &kp H        &kp J          &kp K           &kp L         &kp SEMICOLON   &kp SINGLE_QUOTE
 				&kp LSHFT      &kp Z           &kp X        &kp C          &kp V          &kp B            &kp LBKT          &kp RBKT        &kp N        &kp M          &kp COMMA       &kp PERIOD    &kp SLASH       &kp RSHFT
 				&kp GRAVE      &caps_word      &kp LCTRL    &kp LALT       &kp LGUI                                                                       &kp LEFT_ARROW &kp DOWN_ARROW  &kp UP_ARROW  &kp RIGHT_ARROW &mo LAYER_FN
-				                                                                          &kp LG(C)        &kp LG(V)         &kp LC(DOWN_ARROW) &kp ESCAPE
+				                                                                          &kp LG(C)        &kp LG(V)         &kp LC(UP_ARROW) &kp ESCAPE
 				                                                           &kp SPACE      &kp BACKSPACE    &none             &kp DELETE      &kp RSHFT   &kp ENTER
 				                                                                                           &kp HOME          &kp END
 			>;
